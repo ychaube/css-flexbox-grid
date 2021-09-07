@@ -24,7 +24,7 @@
 ## About The Project
 
 Sample project to refresh basics on HTML and CSS.
-[See it in action](https://example.com)
+[See it in action](https://ychaube.github.io/css-flexbox-grid/)
 
 ## Learnings
 Basic learnings from this project are added below. Any contributions you make are **greatly appreciated**.
